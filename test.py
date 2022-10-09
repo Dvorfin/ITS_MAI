@@ -1,1 +1,0 @@
-print('kal na dokere')
