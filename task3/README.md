@@ -3,7 +3,7 @@
 
 ## Классы 
 
-GrayImg, 
+GrayImg, \
 BlueImg, 
 PupleImg, 
 RndImg
