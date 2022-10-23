@@ -1,4 +1,9 @@
 ** Модуль содержит следующие функции и классы**
 ===========
 
-## Класс GrayImg, BlueImg, PupleImg, RndImg
+## Классы 
+
+GrayImg, 
+BlueImg, 
+PupleImg, 
+RndImg
