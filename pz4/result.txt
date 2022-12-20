@@ -1,0 +1,5 @@
+Result of copying git repos:
+Repo: https://github.com/DevDungeon/Cookbook1   | status: Ok
+Repo: gfgdfg   | status: Fail
+Repo: r44443534   | status: Fail
+Repo: https://github.com/Dvorfin/ITS_MAI/task4   | status: Ok
